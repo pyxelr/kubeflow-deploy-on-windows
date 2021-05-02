@@ -67,4 +67,4 @@ If the steps above did not work:
 * Practice Kubeflow in an online interactive shell on [Katacoda](https://www.katacoda.com/kubeflow) (free). You may also find more exercises on the paid [O'Reilly learning platform](https://learning.oreilly.com/home/)
 
 ## Contributing
-If there are any issues/improvements that you would like to include, feel free to [create a pull request](kubeflow_deploy_on_windows/pulls).
+If there are any issues/improvements that you would like to include, feel free to [create a pull request](https://github.com/pyxelr/kubeflow-deploy-on-windows/pulls).
