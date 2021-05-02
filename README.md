@@ -32,8 +32,8 @@ Since version 1.3 of the Kubeflow documentation, the OS based instructions seem 
   <img src="available-kubeflow-information.png" alt="Available Kubeflow Information">
 
 11. Take a note of the URL, username and password. You can also check the login credentials with a command:
-   * admin: `microk8s juju config dex-aafter it's done, you shall see the dashboarduth static-username`
-   * password: `microk8s juju config dex-auth static-password` 
+   * admin: `microk8s juju config dex-auth static-username`
+   * password: `microk8s juju config dex-auth static-password`
 
 ### Accessing the dashboard
 
