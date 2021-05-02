@@ -1,6 +1,6 @@
-# Kubeflow deploy on Windows through Microk8s
+# Kubeflow deployment on Windows through Microk8s
 
-Following tutorial (based on the [guide from Canonical](https://ubuntu.com/tutorials/deploy-kubeflow-ubuntu-windows-mac#1-overview)) is composed of the steps that allowed me to deploy Kubeflow on my local machine with a Windows 10 Pro OS.
+The following tutorial (based on the [guide from Canonical](https://ubuntu.com/tutorials/deploy-kubeflow-ubuntu-windows-mac#1-overview)) is composed of the steps that allowed me to deploy Kubeflow on my local machine with a Windows 10 Pro OS.
 
 Since version 1.3 of the Kubeflow documentation, the OS based instructions seem to disappear, and [version 1.2](https://v1-2-branch.kubeflow.org/docs/started/workstation/getting-started-windows/) does not provide enough details.
 
@@ -58,7 +58,7 @@ However, on Windows it is a bit more complicated (we need to create a SOCKS prox
    * `multipass delete kubeflow`
    * `multipass purge`
 
-### Other installation options
+## Other installation options
 
 If the steps above did not work:
 * Try other ways of installing Kubeflow locally. Currently, they are still described in [version 1.2](https://v1-2-branch.kubeflow.org/docs/started/workstation/getting-started-windows/) of Kubeflow documentation; however, first check if [the current version](https://www.kubeflow.org/docs/started/installing-kubeflow/) includes them
